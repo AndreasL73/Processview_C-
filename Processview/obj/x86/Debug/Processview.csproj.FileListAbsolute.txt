@@ -1,0 +1,11 @@
+C:\Users\Jemand\Documents\Visual Studio 2010\Projects\Processview\Processview\bin\Debug\Processview.exe
+C:\Users\Jemand\Documents\Visual Studio 2010\Projects\Processview\Processview\bin\Debug\Processview.pdb
+C:\Users\Jemand\Documents\Visual Studio 2010\Projects\Processview\Processview\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Jemand\Documents\Visual Studio 2010\Projects\Processview\Processview\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Jemand\Documents\Visual Studio 2010\Projects\Processview\Processview\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jemand\Documents\Visual Studio 2010\Projects\Processview\Processview\obj\x86\Debug\Processview.Form1.resources
+C:\Users\Jemand\Documents\Visual Studio 2010\Projects\Processview\Processview\obj\x86\Debug\Processview.Properties.Resources.resources
+C:\Users\Jemand\Documents\Visual Studio 2010\Projects\Processview\Processview\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jemand\Documents\Visual Studio 2010\Projects\Processview\Processview\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jemand\Documents\Visual Studio 2010\Projects\Processview\Processview\obj\x86\Debug\Processview.exe
+C:\Users\Jemand\Documents\Visual Studio 2010\Projects\Processview\Processview\obj\x86\Debug\Processview.pdb
